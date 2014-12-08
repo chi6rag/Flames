@@ -1,7 +1,8 @@
+<div class="main">
+  <%= image_tag("apple-touch-icon.png")  %>
 <%= form_tag "/flames/show" do %>
-  <%= text_field_tag "your_name" %>
-  <br /><br />
-  <%= text_field_tag "crush_name" %>
-  <br /><br />
-  <%= submit_tag "Save" %>
+  <%= text_field_tag "your_name", nil, placeholder: 'Your Name' %>
+  <%= text_field_tag "crush_name", nil, placeholder: "Your Crush's Name" %>
+  <%= submit_tag "Find", class: "find-button" %>
 <% end %>
+</div>
