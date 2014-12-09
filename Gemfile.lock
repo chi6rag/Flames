@@ -115,6 +115,7 @@ DEPENDENCIES
   i18n (~> 0.6.11)
   jbuilder (~> 2.0)
   jquery-rails
+  minitest (~> 5.4.3)
   pg
   rack-test (~> 0.6.2)
   rails (= 4.1.8)
