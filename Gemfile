@@ -37,7 +37,7 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'rake', '~> 10.4.2'
 gem 'actionmailer', '~> 4.1.8'
 
 group :development, :test do
