@@ -116,7 +116,7 @@ DEPENDENCIES
   pg
   rails (= 4.1.8)
   sass-rails (~> 4.0.3)
-  sdoc (~> 0.4.0)
+  sdoc (~> 0.4.1)
   spring
   sqlite3
   turbolinks
