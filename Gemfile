@@ -39,6 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'rake', '~> 10.4.2'
 gem 'rack-test', '~> 0.6.2'
+gem 'i18n', '~> 0.6.11'
 gem 'actionmailer', '~> 4.1.8'
 
 group :development, :test do
