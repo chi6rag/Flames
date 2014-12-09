@@ -111,6 +111,7 @@ PLATFORMS
 DEPENDENCIES
   actionmailer (~> 4.1.8)
   coffee-rails (~> 4.0.0)
+  execjs (~> 2.2.2)
   jbuilder (~> 2.0)
   jquery-rails
   pg
