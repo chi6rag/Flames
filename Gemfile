@@ -54,3 +54,6 @@ group :production do
   gem 'pg'
 
 end
+
+gem 'omniauth'
+gem 'omniauth-facebook'
