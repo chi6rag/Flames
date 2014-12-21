@@ -1,3 +1,19 @@
 // Place all the styles related to the flames controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.background {
+  height: 100vh; width: 100vw;
+  background-color: blue;
+  background-color: #EBEBEB;
+  background: url(http://res.cloudinary.com/fivestars/image/upload/v1419164494/enough_love_-wallpaper-1366x768_igh4is.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+
+#fb-signin {
+  margin-top: 70vh;
+}
